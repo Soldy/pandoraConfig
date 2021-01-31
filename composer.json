@@ -2,7 +2,7 @@
     "name": "soldy/pandora-config",
     "description": "Simple json config",
     "type": "composer-plugin",
-    "license": "GPL-V3",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Soldy",
