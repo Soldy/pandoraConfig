@@ -1,0 +1,19 @@
+{
+    "name": "soldy/pandora-config",
+    "description": "Simple json config",
+    "type": "composer-plugin",
+    "license": "GPL-V3",
+    "authors": [
+        {
+            "name": "Soldy",
+            "email": "4786022+Soldy@users.noreply.github.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "Pandora\\" : "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
